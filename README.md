@@ -1,3 +1,11 @@
+# Table of Contents
+
+1. [Installation](#my-first-title)
+2. [Usage](#my-second-title)
+3. [Project Motivation](#my-second-title)
+4. [File Descriptions](#my-second-title)
+5. [Licensing, Authors, Acknowledgements](#my-second-title)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install latest version of scikit-learn. After installing latest version using;
@@ -18,15 +26,12 @@ from sklearn.impute import IterativeImputer
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
 What are the trends on tech tools?
-
 What is the average developer salary? 
-
 What profession has more promising income as seniority increases? 
-
 Salary Prediction (Linear Regression)
 
 ## File Descriptions
-In this project, there are 4 different .ipynb files containing the questions I have detailed above and the salary estimation case. There are studies seeking answers to the questions in these files. In the estimation file, salary estimation was made using the features in the dataset and liear regression.
+In this project, there are 3 different .ipynb files containing the questions I have detailed above and the salary estimation case. There are studies seeking answers to the questions in these files. In the estimation file, salary estimation was made using the features in the dataset and liear regression.
 
 
 ## Licensing, Authors, Acknowledgements
