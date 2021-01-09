@@ -35,7 +35,7 @@ Salary Prediction (Linear Regression)
 In this project, there is one .ipynb files containing the questions I have detailed above and the salary estimation case. There are studies seeking answers to the questions in these files. In the estimation file, salary estimation was made using the features in the dataset and liear regression.
 
 ## Results
-We examined the rising and declining programming languages, frameworks, databases and their market shares, and we were able to interpret the technology trends of the coming years with the changes here. With the 72% salary estimation with Linear Regression we did at the end, we completed our review by adding one click machine learning.
+I examined the rising and declining programming languages, frameworks, databases and their market shares, and I was able to interpret the technology trends of the coming years with the changes here. With the 72% salary estimation with Linear Regression I did at the end, I've completed my review by adding one click machine learning.
 
 ## Licensing, Authors, Acknowledgements
-Thank you to StackOverFlow for providing this good dataset and Udacity for Data Science Nanodegree program based on real problem and use cases.
+Thank you to StackOverFlow for providing this entertaining dataset and Udacity for Data Science Nanodegree program based on real problem and use cases.
