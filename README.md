@@ -4,7 +4,7 @@
 2. [Usage](#usage)
 3. [Project Motivation](#project-motivation)
 4. [File Descriptions](#file-descriptions)
-5. [Licensing, Authors, Acknowledgements](#licensing,-authors,-acknowledgements)
+5. [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
 
 ## Installation
 
